@@ -1,0 +1,8 @@
+Commit: c85b5227c8fa18baa22c6869f43ebe35c1444f10
+Branch: main
+c85b522 Add GitHub Sponsors button for vasic-digital
+747b4c6 security: Add mandatory NO SUDO/ROOT execution constraint
+5f1bdd5 docs: add ARCHITECTURE.md, doc.go, tests, .env gitignore for v2.1.0
+7855f22 Merge remote-tracking branch 'origin/main'
+8e94c6a chore: add explicit vitest.config.ts for consistency
+
