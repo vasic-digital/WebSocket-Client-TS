@@ -1,5 +1,13 @@
 # AGENTS.md — WebSocket-Client-TS
 
+> ## INHERITED FROM the Helix Constitution
+> This module is governed by the Helix Constitution — its `AGENTS.md` and
+> the `Constitution.md` it references are authoritative. Locate the
+> constitution from any nested depth via `find_constitution.sh`; never
+> hardcode a path (full decoupling per §11.4.28).
+> Canonical reference: https://github.com/HelixDevelopment/HelixConstitution
+
+
 > **NON-NEGOTIABLE PRIME DIRECTIVE:**
 > **"We had been in position that all tests do execute with success and
 > all Challenges as well, but in reality the most of the features does
