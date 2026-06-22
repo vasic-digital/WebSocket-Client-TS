@@ -49,7 +49,7 @@ Canonical reference: https://github.com/HelixDevelopment/HelixConstitution
 > - Implementation Roadmap codified in §21 — 14 phases (P00–P13).
 
 ## Project Context
-This submodule is part of the HelixPlay system.
+This submodule is part of the consuming project.
 See the [feature spec](https://github.com/HelixDevelopment/HelixPlay/blob/001-helixplay-system/specs/001-helixplay-system/spec.md).
 
 ## Submodule-Specific Notes

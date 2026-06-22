@@ -43,7 +43,7 @@
 > - Implementation Roadmap codified in §21 — 14 phases (P00–P13).
 
 ## Repo state
-This is a `vasic-digital` / `HelixDevelopment` submodule for HelixPlay.
+This is a `vasic-digital` / `HelixDevelopment` submodule for the consuming project.
 
 ## Critical constraints
 - **Anti-bluff:** No placeholders, dead code, vacuous tests. Details in Constitution §1.
