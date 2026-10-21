@@ -1,0 +1,20 @@
+# helix-deps.yaml — websocket_client_ts Submodule-Dependency Manifest
+# Per HelixConstitution §11.4.31 (Submodule-Dependency-Manifest Mandate).
+#
+# websocket_client_ts is a leaf TypeScript package (@vasic-digital/websocket-client); package.json has no runtime dependencies, dev deps are third-party.
+# Evidence: no own-org (vasic-digital/*, HelixDevelopment/*) module is
+# required, replaced or imported in the package manifest or sources; only
+# third-party dependencies are declared there.
+#
+# Schema reference: <constitution-submodule>/Constitution.md §11.4.31.
+
+schema_version: 1
+
+# No own-org dependencies: honest manifest of a leaf submodule.
+deps: []
+
+transitive_handling:
+  recursive: true
+  conflict_resolution: operator-required
+
+language_specific_subtree: false

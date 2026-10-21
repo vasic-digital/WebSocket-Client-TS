@@ -4,3 +4,5 @@
 >
 > This submodule adopts the project Constitution v2.3.0 in full.
 > All clauses §1-§21 are binding. No local weakening permitted.
+
+Dependency manifest (§11.4.31): see `helix-deps.yaml`.
